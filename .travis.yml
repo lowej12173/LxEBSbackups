@@ -1,15 +1,14 @@
-'language: python
+language: python
 
 python:
   - "2.6"
-      - "2.7"
-            - "3.3"
-	            - "3.4"
+  - "2.7"
+  - "3.3"
+  - "3.4"
 
-		    	sudo: false
+sudo: false
 
-				install: true
+install: true
 
-					script: true'
-						Status API Training Shop Blog About Pricing
-							© 2016 GitHub, Inc. Ter
+script: true
+
